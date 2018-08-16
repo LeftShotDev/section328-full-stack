@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "root"
+		},
+		{
+			"path": "./src/client",
+			"name": "React"
+		},
+		{
+			"path": "./src/server",
+			"name": "Express"
+		}
+	],
+	"settings": {
+		"window.title": "${dirty}${activeEditorShort}${separator}Section328"
+	}
+}
