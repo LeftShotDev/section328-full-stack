@@ -4,3 +4,4 @@ dist
 *.log
 .DS_store
 /src/etc
+rankings
